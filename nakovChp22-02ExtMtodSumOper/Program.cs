@@ -95,8 +95,7 @@ public static class IEnumerableExtensionMethods
         Console.WriteLine("The results of the data operations are: ");
         Console.WriteLine(" Min = {0}\n Max = {1}\n Sum = {2}\n Average = {3}", min, max, sum, average);
     }
-
-    
+   
 }
 
 class MainProgram
